@@ -51,7 +51,7 @@ class _HomeScreenState extends State<Home> {
       "price": 43,
       "color": 'Black',
       "size": 'M',
-      "image_url": 'https://img.freepik.com/free-vector/blue-packages-cosmetics-set_1284-12685.jpg?',
+      "image_url": 'https://img.freepik.com/premium-vector/sport-wear-mens-womens_18591-19612.jpg?w=740?',
       "totalitem": 1,
       "counter": 1
     },
